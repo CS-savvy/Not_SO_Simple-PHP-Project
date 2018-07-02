@@ -1,2 +1,41 @@
 # Not_SO_Simple-PHP-Project
 A Student Faculty Forum using basic PHP and hash security for password. 
+
+                                                                            PHP  Project Work
+                                                                                     BY
+
+                                                                  Mukul Kumar     - Cs - A 2nd Year
+                                                                
+
+
+/*+_________________________________________________________________________________________________________+*\
+
+  Module selection - 2nd (Student Faculty) ;
+
+///****  I Strongly focused On Functions Not on Visuals ****////
+
+project KEY Features :-
+
+  1.  Only registered user can login with correct combination of username and password.;
+  
+  2.  In registeration Process system checks for avaiblity of username.; 
+
+  3. System Cross Checks The Password for assuring User Entered The Desired key.;
+
+  4. In The Same Registration User Can Select The type of Member as he Wants to be In this Community.;
+
+  5. Looks Of the Logged In User Like Facebook Time Line . Its make User To Understand Easily Whats Going On This Forum.;
+   
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||                                         
+  
+Database Info -
+    
+     $mysqli=new MySQLi('localhost' , 'root' , '' ,'proworks');
+
+     Tables :-
+         no of tables - 4 ;
+     
+               Details Are in  Pics. 
+     
+                                                          /\/\/\/\/\  Thanks A Lot..... /\/\/\/\/\
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
